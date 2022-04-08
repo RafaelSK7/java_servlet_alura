@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\Desenvolvimento\Estudos\Alura\java_servlet_alura\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+888161750.index
+456790899.index
+1532149616.index
+814110672.index
+423365914.index
+1405192958.index
+310476499.index
+1532149616.index
