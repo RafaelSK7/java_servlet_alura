@@ -1,0 +1,7 @@
+127.0.0.1 - - [26/Apr/2022:13:34:16 -0300] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [26/Apr/2022:13:34:40 -0300] "GET /gerenciador HTTP/1.1" 404 774
+127.0.0.1 - - [26/Apr/2022:13:34:40 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [26/Apr/2022:13:34:50 -0300] "GET /gerenciador/listanovaempresa HTTP/1.1" 404 795
+127.0.0.1 - - [26/Apr/2022:13:35:05 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 404 792
+127.0.0.1 - - [26/Apr/2022:13:35:15 -0300] "GET /gerenciador/novaEmpresa HTTP/1.1" 404 790
+127.0.0.1 - - [26/Apr/2022:13:35:32 -0300] "GET /gerenciador/oi HTTP/1.1" 404 781
