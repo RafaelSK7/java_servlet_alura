@@ -4,7 +4,12 @@
 
 <html>
 <body>
-	Lista de Empresas:
+
+	<c:if test="${not empty empresa}">
+		Empresa ${ empresa } cadastrada com sucesso.
+	</c:if>
+	<br />
+	Lista de Empresas: <br />
 
 	<ul>
 		<c:forEach items="${empresas}" var="empresa">
