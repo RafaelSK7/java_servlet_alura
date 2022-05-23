@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/May/2022:16:36:30 -0300] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [23/May/2022:16:36:35 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 443
+127.0.0.1 - - [23/May/2022:16:36:42 -0300] "GET /gerenciador/mostraEmpresa?id=1 HTTP/1.1" 200 323
+127.0.0.1 - - [23/May/2022:16:36:45 -0300] "GET /gerenciador/removeEmpresa?id=1 HTTP/1.1" 302 -
+127.0.0.1 - - [23/May/2022:16:36:45 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 276
+127.0.0.1 - - [23/May/2022:16:36:48 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 276
